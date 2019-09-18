@@ -16,5 +16,9 @@ public class TestDao {
 		}
 		
 	}
+	
+	public void testname() throws Exception {
+		System.out.println(123);
+	}
 
 }
